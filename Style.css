@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+}
+
+
+
+
+.royu {
+    background-color: blue;
+    font-size: 40px;
+    padding: 40px;
+    color: white;
+
+}
+
+li {
+    float: inline-end;
+    padding-left: 30px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+header {
+        top: 0;
+       }
+
+h2 {
+    font-size: 100px;
+    position: absolute;
+    left: 40%;
+    top: 20%;
+}
+.paragraph{
+    position:absolute;
+    left:40%;
+    top: 46%;
+
+}
